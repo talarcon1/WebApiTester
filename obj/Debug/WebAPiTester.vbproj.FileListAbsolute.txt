@@ -1,0 +1,11 @@
+C:\Users\Tim Alarcon\AppData\Local\Temporary Projects\WebAPiTester\bin\Debug\WebAPiTester.exe.config
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\bin\Debug\WebAPiTester.exe.config
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\bin\Debug\WebAPiTester.exe
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\bin\Debug\WebAPiTester.pdb
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\bin\Debug\WebAPiTester.xml
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.Resources.resources
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.vbproj.GenerateResource.Cache
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.exe
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.xml
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.pdb
+C:\Users\Tim Alarcon\Documents\Visual Studio 2015\Projects\WebAPiTester\WebAPiTester\obj\Debug\WebAPiTester.vbprojResolveAssemblyReference.cache
